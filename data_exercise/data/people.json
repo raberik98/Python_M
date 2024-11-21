@@ -1,0 +1,489 @@
+[
+    {
+        "id": 11,
+        "name": {
+            "first": "Ethan",
+            "last": "Harris"
+        },
+        "age": 29,
+        "gender": "Male",
+        "company_id": 3,
+        "law_violations": [
+            {
+                "id": "L009",
+                "level": 2,
+                "text": "Late submission of business tax forms.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": {
+            "first": "Ava",
+            "last": "Walker"
+        },
+        "age": 34,
+        "gender": "Female",
+        "company_id": 8,
+        "law_violations": []
+    },
+    {
+        "id": 13,
+        "name": {
+            "first": "Jacob",
+            "last": "Young"
+        },
+        "age": 41,
+        "gender": "Male",
+        "company_id": 0,
+        "law_violations": [
+            {
+                "id": "L010",
+                "level": 3,
+                "text": "Unpaid property taxes.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": {
+            "first": "Mia",
+            "last": "King"
+        },
+        "age": 37,
+        "gender": "Female",
+        "company_id": 2,
+        "law_violations": [
+            {
+                "id": "L011",
+                "level": 4,
+                "text": "Fraudulent loan application.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": {
+            "first": "Alexander",
+            "last": "White"
+        },
+        "age": 50,
+        "gender": "Male",
+        "company_id": 0,
+        "law_violations": []
+    },
+    {
+        "id": 16,
+        "name": {
+            "first": "Ella",
+            "last": "Lopez"
+        },
+        "age": 30,
+        "gender": "Female",
+        "company_id": 4,
+        "law_violations": [
+            {
+                "id": "L012",
+                "level": 1,
+                "text": "Missed deadline for tax filings.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": {
+            "first": "Logan",
+            "last": "Hill"
+        },
+        "age": 45,
+        "gender": "Male",
+        "company_id": 6,
+        "law_violations": [
+            {
+                "id": "L013",
+                "level": 2,
+                "text": "Failure to disclose secondary income.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": {
+            "first": "Chloe",
+            "last": "Scott"
+        },
+        "age": 27,
+        "gender": "Female",
+        "company_id": 1,
+        "law_violations": []
+    },
+    {
+        "id": 19,
+        "name": {
+            "first": "Lucas",
+            "last": "Green"
+        },
+        "age": 36,
+        "gender": "Male",
+        "company_id": 9,
+        "law_violations": [
+            {
+                "id": "L014",
+                "level": 5,
+                "text": "Embezzlement of company funds.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": {
+            "first": "Aria",
+            "last": "Adams"
+        },
+        "age": 32,
+        "gender": "Female",
+        "company_id": 0,
+        "law_violations": [
+            {
+                "id": "L015",
+                "level": 3,
+                "text": "Unreported overseas assets.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": {
+            "first": "Henry",
+            "last": "Baker"
+        },
+        "age": 39,
+        "gender": "Male",
+        "company_id": 10,
+        "law_violations": []
+    },
+    {
+        "id": 22,
+        "name": {
+            "first": "Grace",
+            "last": "Mitchell"
+        },
+        "age": 24,
+        "gender": "Female",
+        "company_id": 0,
+        "law_violations": []
+    },
+    {
+        "id": 23,
+        "name": {
+            "first": "Sebastian",
+            "last": "Perez"
+        },
+        "age": 47,
+        "gender": "Male",
+        "company_id": 5,
+        "law_violations": [
+            {
+                "id": "L016",
+                "level": 4,
+                "text": "Conducting illegal financial transactions.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": {
+            "first": "Scarlett",
+            "last": "Carter"
+        },
+        "age": 38,
+        "gender": "Female",
+        "company_id": 7,
+        "law_violations": [
+            {
+                "id": "L017",
+                "level": 1,
+                "text": "Failure to submit employment forms.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": {
+            "first": "Dylan",
+            "last": "Morgan"
+        },
+        "age": 33,
+        "gender": "Male",
+        "company_id": 0,
+        "law_violations": []
+    },
+    {
+        "id": 26,
+        "name": {
+            "first": "Lily",
+            "last": "Rogers"
+        },
+        "age": 28,
+        "gender": "Female",
+        "company_id": 11,
+        "law_violations": [
+            {
+                "id": "L018",
+                "level": 3,
+                "text": "Late payment of quarterly taxes.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": {
+            "first": "Gabriel",
+            "last": "Reed"
+        },
+        "age": 44,
+        "gender": "Male",
+        "company_id": 2,
+        "law_violations": []
+    },
+    {
+        "id": 28,
+        "name": {
+            "first": "Hannah",
+            "last": "Stewart"
+        },
+        "age": 31,
+        "gender": "Female",
+        "company_id": 8,
+        "law_violations": [
+            {
+                "id": "L019",
+                "level": 2,
+                "text": "Incorrect reporting of income tax.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": {
+            "first": "Carter",
+            "last": "Bell"
+        },
+        "age": 50,
+        "gender": "Male",
+        "company_id": 0,
+        "law_violations": []
+    },
+    {
+        "id": 30,
+        "name": {
+            "first": "Victoria",
+            "last": "Torres"
+        },
+        "age": 26,
+        "gender": "Female",
+        "company_id": 12,
+        "law_violations": [
+            {
+                "id": "L020",
+                "level": 5,
+                "text": "Forgery of official documents.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": {
+            "first": "Sophia",
+            "last": "Williams"
+        },
+        "age": 28,
+        "gender": "Female",
+        "company_id": 3,
+        "law_violations": [
+            {
+                "id": "L032",
+                "level": 2,
+                "text": "Speeding in a school zone.",
+                "institution": "Traffic Police"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": {
+            "first": "James",
+            "last": "Brown"
+        },
+        "age": 45,
+        "gender": "Male",
+        "company_id": 14,
+        "law_violations": [
+            {
+                "id": "L018",
+                "level": 3,
+                "text": "Unauthorized disposal of hazardous materials.",
+                "institution": "Environmental Agency"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": {
+            "first": "Isabella",
+            "last": "Clark"
+        },
+        "age": 31,
+        "gender": "Female",
+        "company_id": 7,
+        "law_violations": []
+    },
+    {
+        "id": 34,
+        "name": {
+            "first": "Ethan",
+            "last": "Harris"
+        },
+        "age": 39,
+        "gender": "Male",
+        "company_id": 5,
+        "law_violations": [
+            {
+                "id": "L022",
+                "level": 4,
+                "text": "Forgery of legal documents.",
+                "institution": "Police"
+            },
+            {
+                "id": "L023",
+                "level": 1,
+                "text": "Jaywalking.",
+                "institution": "Traffic Police"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": {
+            "first": "Olivia",
+            "last": "Martinez"
+        },
+        "age": 26,
+        "gender": "Female",
+        "company_id": 12,
+        "law_violations": []
+    },
+    {
+        "id": 36,
+        "name": {
+            "first": "Liam",
+            "last": "Garcia"
+        },
+        "age": 50,
+        "gender": "Male",
+        "company_id": 1,
+        "law_violations": [
+            {
+                "id": "L041",
+                "level": 5,
+                "text": "Tax evasion.",
+                "institution": "IRS"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": {
+            "first": "Emma",
+            "last": "Taylor"
+        },
+        "age": 22,
+        "gender": "Female",
+        "company_id": 9,
+        "law_violations": [
+            {
+                "id": "L055",
+                "level": 3,
+                "text": "Public disturbance.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": {
+            "first": "Noah",
+            "last": "Moore"
+        },
+        "age": 41,
+        "gender": "Male",
+        "company_id": 4,
+        "law_violations": []
+    },
+    {
+        "id": 39,
+        "name": {
+            "first": "Ava",
+            "last": "Walker"
+        },
+        "age": 29,
+        "gender": "Female",
+        "company_id": 8,
+        "law_violations": [
+            {
+                "id": "L062",
+                "level": 4,
+                "text": "Identity theft.",
+                "institution": "Cybersecurity Bureau"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": {
+            "first": "Mason",
+            "last": "Davis"
+        },
+        "age": 34,
+        "gender": "Male",
+        "company_id": 2,
+        "law_violations": [
+            {
+                "id": "L073",
+                "level": 5,
+                "text": "Trespassing on private property.",
+                "institution": "Police"
+            },
+            {
+                "id": "L074",
+                "level": 2,
+                "text": "Driving under influence.",
+                "institution": "Police"
+            },
+            {
+                "id": "L075",
+                "level": 2,
+                "text": "Brawling.",
+                "institution": "Police"
+            },
+            {
+                "id": "L076",
+                "level": 2,
+                "text": "Theft.",
+                "institution": "Police"
+            }
+        ]
+    }
+]

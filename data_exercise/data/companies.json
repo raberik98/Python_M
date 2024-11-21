@@ -1,0 +1,286 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Innovators Ltd.",
+        "specialization": "AI Development",
+        "owner": "Sophia Reynolds",
+        "headquarter_address": {
+            "street": "201 Quantum Rd",
+            "city": "Silicon Valley",
+            "state": "California",
+            "zip_code": "94027",
+            "country": "USA"
+        },
+        "warnings": [
+            {
+                "id": "W001",
+                "level": "hard",
+                "text": "Unauthorized use of surveillance software.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "GreenFuture Energy",
+        "specialization": "Renewable Energy",
+        "owner": "Michael Harper",
+        "headquarter_address": {
+            "street": "567 Solar Dr",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "73301",
+            "country": "USA"
+        },
+        "warnings": []
+    },
+    {
+        "id": 3,
+        "name": "SkyHigh Drones",
+        "specialization": "Drone Manufacturing",
+        "owner": "Emma Clark",
+        "headquarter_address": {
+            "street": "111 Aviation Ave",
+            "city": "Seattle",
+            "state": "Washington",
+            "zip_code": "98101",
+            "country": "USA"
+        },
+        "warnings": [
+            {
+                "id": "W002",
+                "level": "light",
+                "text": "Missing safety certifications for commercial drones.",
+                "institution": "Police"
+            },
+            {
+                "id": "W003",
+                "level": "hard",
+                "text": "Unpaid corporate taxes.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "UrbanGroves Inc.",
+        "specialization": "Urban Farming Solutions",
+        "owner": "Liam Bennett",
+        "headquarter_address": {
+            "street": "789 Greenhouse Ln",
+            "city": "Denver",
+            "state": "Colorado",
+            "zip_code": "80203",
+            "country": "USA"
+        },
+        "warnings": []
+    },
+    {
+        "id": 5,
+        "name": "CyberShield Tech",
+        "specialization": "Cybersecurity",
+        "owner": "Olivia James",
+        "headquarter_address": {
+            "street": "321 Firewall Blvd",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10001",
+            "country": "USA"
+        },
+        "warnings": [
+            {
+                "id": "W004",
+                "level": "hard",
+                "text": "Failure to protect user data under GDPR.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "EcoTransport Ltd.",
+        "specialization": "Electric Vehicles",
+        "owner": "Noah Thompson",
+        "headquarter_address": {
+            "street": "400 EV Parkway",
+            "city": "Los Angeles",
+            "state": "California",
+            "zip_code": "90001",
+            "country": "USA"
+        },
+        "warnings": [
+            {
+                "id": "W005",
+                "level": "light",
+                "text": "Delayed tax filings for Q3.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "SmartHome Solutions",
+        "specialization": "IoT Devices",
+        "owner": "Ella Robinson",
+        "headquarter_address": {
+            "street": "150 Automation Dr",
+            "city": "San Diego",
+            "state": "California",
+            "zip_code": "92101",
+            "country": "USA"
+        },
+        "warnings": []
+    },
+    {
+        "id": 8,
+        "name": "HealthPlus Labs",
+        "specialization": "Medical Technology",
+        "owner": "James Walker",
+        "headquarter_address": {
+            "street": "88 Wellness Blvd",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip_code": "02110",
+            "country": "USA"
+        },
+        "warnings": [
+            {
+                "id": "W006",
+                "level": "hard",
+                "text": "Unreported hazardous waste disposal.",
+                "institution": "Police"
+            },
+            {
+                "id": "W007",
+                "level": "light",
+                "text": "Late filing of annual tax report.",
+                "institution": "NAV"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "FutureEdu",
+        "specialization": "Online Education",
+        "owner": "Charlotte Martinez",
+        "headquarter_address": {
+            "street": "250 Learning Way",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip_code": "85004",
+            "country": "USA"
+        },
+        "warnings": []
+    },
+    {
+        "id": 10,
+        "name": "EcoBuild Materials",
+        "specialization": "Sustainable Construction",
+        "owner": "Benjamin Harris",
+        "headquarter_address": {
+            "street": "70 Habitat Rd",
+            "city": "Portland",
+            "state": "Oregon",
+            "zip_code": "97205",
+            "country": "USA"
+        },
+        "warnings": []
+    },
+    {
+        "id": 11,
+        "name": "CloudStream Data",
+        "specialization": "Cloud Computing",
+        "owner": "Lucas Adams",
+        "headquarter_address": {
+            "street": "500 Cloud Lane",
+            "city": "Austin",
+            "state": "Texas",
+            "zip_code": "73301",
+            "country": "USA"
+        },
+        "warnings": [
+            {
+                "id": "W008",
+                "level": "hard",
+                "text": "Breach of cybersecurity protocols.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "NextGen Robotics",
+        "specialization": "Industrial Robots",
+        "owner": "Amelia Perez",
+        "headquarter_address": {
+            "street": "300 Automation Ave",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip_code": "60601",
+            "country": "USA"
+        },
+        "warnings": [
+            {
+                "id": "W009",
+                "level": "light",
+                "text": "Improper handling of hazardous materials.",
+                "institution": "Police"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "BioVantage Corp.",
+        "specialization": "Biotechnology",
+        "owner": "Ethan White",
+        "headquarter_address": {
+            "street": "789 Genome Rd",
+            "city": "San Francisco",
+            "state": "California",
+            "zip_code": "94103",
+            "country": "USA"
+        },
+        "warnings": []
+    },
+    {
+        "id": 14,
+        "name": "TravelEase Inc.",
+        "specialization": "Travel Technology",
+        "owner": "Mia Hernandez",
+        "headquarter_address": {
+            "street": "55 Explorer Blvd",
+            "city": "Miami",
+            "state": "Florida",
+            "zip_code": "33101",
+            "country": "USA"
+        },
+        "warnings": []
+    },
+    {
+        "id": 15,
+        "name": "AgriTech Solutions",
+        "specialization": "Smart Farming",
+        "owner": "William Carter",
+        "headquarter_address": {
+            "street": "601 Harvest Rd",
+            "city": "Des Moines",
+            "state": "Iowa",
+            "zip_code": "50309",
+            "country": "USA"
+        },
+        "warnings": [
+            {
+                "id": "W010",
+                "level": "hard",
+                "text": "Failure to comply with pesticide usage laws.",
+                "institution": "Police"
+            },
+            {
+                "id": "W011",
+                "level": "light",
+                "text": "Late submission of quarterly taxes.",
+                "institution": "NAV"
+            }
+        ]
+    }
+]
